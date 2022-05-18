@@ -57,3 +57,5 @@
 2022-05-18 12:39:24,331 [Worker-0: Launching world] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Real\world
 2022-05-18 12:39:24,334 [Worker-0: Launching world] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
 2022-05-18 12:39:54,212 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-05-18 12:39:54,271 [Worker-8: Launching hello] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Real\hello
+2022-05-18 12:39:54,273 [Worker-8: Launching hello] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
