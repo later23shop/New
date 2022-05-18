@@ -1,0 +1,59 @@
+2022-05-18 11:43:28,986 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-18 11:44:38,735 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Real\world\pom.xml
+2022-05-18 11:44:39,810 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: maven.hello:world:0.0.1-SNAPSHOT @ C:\Real\world\pom.xml.
+2022-05-18 11:44:40,111 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /world/src/main/java
+2022-05-18 11:44:40,119 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /world/src/test/java
+2022-05-18 11:44:41,158 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-05-18 11:44:42,071 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 11:44:42,071 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\world\src\main\resources
+2022-05-18 11:44:42,096 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 11:44:42,096 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\world\src\test\resources
+2022-05-18 11:45:26,531 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-18 11:45:45,293 [Worker-4: Launching world] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Real\world
+2022-05-18 11:45:45,297 [Worker-4: Launching world] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-05-18 11:56:23,325 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Real\hello\pom.xml
+2022-05-18 11:56:23,892 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: maven.hello:hello:0.0.1-SNAPSHOT @ C:\Real\hello\pom.xml.
+2022-05-18 11:56:23,985 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello/src/main/java
+2022-05-18 11:56:23,986 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello/src/test/java
+2022-05-18 11:56:24,262 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-05-18 11:56:24,544 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 11:56:24,545 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\hello\src\main\resources
+2022-05-18 11:56:24,547 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 11:56:24,548 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\hello\src\test\resources
+2022-05-18 11:58:22,380 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-18 11:58:35,213 [Worker-14: Launching hello] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Real\hello
+2022-05-18 11:58:35,213 [Worker-14: Launching hello] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-05-18 12:00:40,149 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-05-18 12:00:40,198 [Worker-22: Launching hello] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Real\hello
+2022-05-18 12:00:40,198 [Worker-22: Launching hello] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-05-18 12:17:42,047 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-18 12:19:39,542 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Real\hi\pom.xml
+2022-05-18 12:19:40,539 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: maven.hello:hi:0.0.1-SNAPSHOT @ C:\Real\hi\pom.xml.
+2022-05-18 12:19:41,015 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hi/src/main/java
+2022-05-18 12:19:41,016 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hi/src/test/java
+2022-05-18 12:19:41,227 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-05-18 12:19:41,658 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 12:19:41,658 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\hi\src\main\resources
+2022-05-18 12:19:41,661 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 12:19:41,662 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\hi\src\test\resources
+2022-05-18 12:22:35,091 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-18 12:22:35,700 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: maven.hello:hello:0.0.1-SNAPSHOT @ C:\Real\hello\pom.xml.
+2022-05-18 12:22:35,910 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: maven.hello:world:0.0.1-SNAPSHOT @ C:\Real\world\pom.xml.
+2022-05-18 12:22:36,230 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello/src/main/java
+2022-05-18 12:22:36,231 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello/src/test/java
+2022-05-18 12:22:36,270 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /world/src/main/java
+2022-05-18 12:22:36,272 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /world/src/test/java
+2022-05-18 12:22:36,401 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-05-18 12:22:36,540 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 12:22:36,541 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\hello\src\main\resources
+2022-05-18 12:22:36,544 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 12:22:36,544 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\hello\src\test\resources
+2022-05-18 12:22:36,741 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 12:22:36,741 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\world\src\main\resources
+2022-05-18 12:22:36,745 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-18 12:22:36,745 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Real\world\src\test\resources
+2022-05-18 12:38:43,984 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-18 12:39:23,826 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-05-18 12:39:24,331 [Worker-0: Launching world] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Real\world
+2022-05-18 12:39:24,334 [Worker-0: Launching world] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-05-18 12:39:54,212 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
